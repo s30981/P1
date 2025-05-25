@@ -1,0 +1,6 @@
+@K1B_HostAddress = http://localhost:5106
+
+GET {{K1B_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
